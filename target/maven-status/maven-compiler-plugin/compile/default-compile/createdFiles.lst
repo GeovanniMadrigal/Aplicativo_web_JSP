@@ -1,0 +1,6 @@
+com\mycompany\control_inventario_2\JAXRSConfiguration.class
+Intefaces\CRUD.class
+com\mycompany\control_inventario_2\resources\JavaEE8Resource.class
+Config\Conexion.class
+Controlador\Controlador.class
+ModeloDAO\PersonaDAO.class
